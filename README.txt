@@ -1,4 +1,4 @@
-Smart File Organizer: Effortless File Management Made Easy
+📌Smart File Organizer: Effortless File Management Made Easy
 
 Description:
 The Smart File Organizer is an intelligent Python script designed to revolutionize the way you manage and organize your files. Say goodbye to the chaotic clutter of your directory and embrace a streamlined, efficient system that saves you time and boosts productivity. With its advanced features and user-friendly interface, this trusted tool ensures your files are organized with precision and care.
